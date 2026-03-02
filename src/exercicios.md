@@ -82,3 +82,24 @@ int main()
     return 0;
 }
 ```
+
+## Exercício 6
+
+```cpp 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Tamanho dos tipos de variaveis em C++:" << endl;
+    cout << "int:    " << sizeof(int)    << " bytes" << endl;
+    cout << "float:  " << sizeof(float)  << " bytes" << endl;
+    cout << "double: " << sizeof(double) << " bytes" << endl;
+    cout << "char:   " << sizeof(char)   << " bytes"  << endl;
+    cout << "bool:   " << sizeof(bool)   << " bytes"  << endl;
+
+    return 0;
+}
+```
+
