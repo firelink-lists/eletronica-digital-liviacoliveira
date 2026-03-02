@@ -9,3 +9,20 @@ void setup() {
 void loop() {
 }
 ```
+
+## Exercício 2
+
+```cpp 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    char nome [100];
+    cout << "Digite o seu nome:";
+    cin >> nome;
+    cout << "Olá, " << nome << "!" << endl;
+    return 0;
+}
+``` 
