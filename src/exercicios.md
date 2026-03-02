@@ -26,3 +26,21 @@ int main()
     return 0;
 }
 ``` 
+
+## Exercício 3
+
+```cpp 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "*" << endl;
+    cout << "**" << endl;
+    cout << "***" << endl;
+    cout << "****" << endl;
+    cout << "*****" << endl;
+    return 0;
+}
+```
