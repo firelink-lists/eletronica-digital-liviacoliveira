@@ -44,3 +44,20 @@ int main()
     return 0;
 }
 ```
+
+## Exercício 4
+
+```cpp 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int valor;
+    cout << "Digite o valor de N:";
+    cin >> valor;
+    cout << "N + 1 = " << valor + 1 << endl;
+    return 0;
+}
+```
