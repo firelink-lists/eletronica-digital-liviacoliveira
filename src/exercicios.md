@@ -61,3 +61,24 @@ int main()
     return 0;
 }
 ```
+
+## Exercício 5
+
+```cpp 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int X;
+    int Y;
+    cout << "Digite o valor de X: ";
+    cin >> X;
+    cout << "Digite o valor de Y: ";
+    cin >> Y;
+    cout << "X: " << Y << endl;
+    cout << "Y: " << X << endl;
+    return 0;
+}
+```
