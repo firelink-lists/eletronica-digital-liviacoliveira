@@ -103,3 +103,30 @@ int main()
 }
 ```
 
+## Exercício 7
+
+```cpp 
+// o resultado do código ainda está dando 0 e 1, não sei o motivo
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+    const double VALOR_ESPERADO = 1.0; 
+
+    float resultadofloat = 1/3.0 + 1/3.0 + 1/3.0;
+    double resultadodouble = 1/3.0 + 1/3.0 + 1/3.0;
+
+    cout << fixed << setprecision(16);
+
+    cout << "Com float: " << resultadofloat << endl;
+    cout << "Com double: " << resultadodouble << endl;
+    cout << "Erro float: " << VALOR_ESPERADO - resultadofloat << endl;
+    cout << "Erro double: " << VALOR_ESPERADO - resultadodouble << endl;
+
+    return 0;
+}
+´´´
