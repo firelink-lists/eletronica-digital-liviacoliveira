@@ -60,6 +60,42 @@ A + B
 
 ## Exercício 15
 
-\(\neg A\)\(\neg B\) + A\(\neg C\)
+\(\neg A\)\(\neg B\) + \(\neg A\)\(\neg C\)
+
+## Exercício 16
+
+$$F = A \oplus B \oplus C$$
+
+## Exercício 17
+
+\(\neg A\)C + AB
+
+## Exercício 18
+
+BCD + \(\neg A\)\(\neg B\)D + A\(\neg B\)\(\neg C\)(\neg D\)
+
+## Exercício 19
+
+A + B
+
+## Exercício 20
+
+\(\neg A\)\(\neg B\) + \(\neg A\)\(\neg C\)
+
+## Exercício 21
+
+$$F = A \oplus B \oplus C$$
+
+## Exercício 22
+
+F = I + PC
+
+## Exercício 23
+
+\(\neg U\)(T + I)
+
+## Exercício 24
+
+
 
 
