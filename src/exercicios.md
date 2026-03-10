@@ -96,6 +96,12 @@ F = I + PC
 
 ## Exercício 24
 
+A (\(\neg B\) + C)
+
+# Circuitos Combinacionais
+
+## Exercício 25
+
 
 
 
